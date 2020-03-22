@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ooseitaehu.lankwitzer-lackfabrik.com.ua/sitemap.xml
